@@ -1,2 +1,1 @@
-Hi
-All
+This is simple text.
